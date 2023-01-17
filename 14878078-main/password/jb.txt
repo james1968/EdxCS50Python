@@ -1,0 +1,2 @@
+Account: amazon, Password: nq5Q5CP3CUzZLMsJszR
+Account: laptop, Password: x3P1d
